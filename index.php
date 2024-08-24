@@ -60,9 +60,6 @@ $conn->close();
             <?php endforeach; ?>
         </ul>
     </div>
-    <div id="sign-up">
-        <h3>Login</h3>
-        <button type="submit" id="signup">Signup</button>
-    </div>
+   
 </body>
 </html>
